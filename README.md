@@ -1,7 +1,7 @@
-  # E-commerce Back End Starter Code  
+  # Product Organizer  
 
   ## Description
-  
+  The back end of an e-commerce website that organizes the products by categories and tags.
   
   ## Table of Contents:
   * [Description](#description)
@@ -22,12 +22,12 @@
   [Repository Link](https://github.com/Mbogaert/products-organizer)
 
   ## Screenshot
-  ![Screenshot of the website that is created](./images/screen-shot.png)
+  ![Screenshot of the website that is created](./photo/screen-shot.png)
 
   ## Useage
   This project can be used to 
 
-  Video on how it works: [Click Here](https://drive.google.com/file/d/1A3qQjbovW2wBl9_rtC43bjCz6lhJhMm9/view)
+  Video on how it works: [Click Here](https://drive.google.com/file/d/19ORliXe_jkdOk_PT0I29f4rEzNcVlF4h/view)
 
   ## Contributions
   Made with Pride by Mathew Bogaert
